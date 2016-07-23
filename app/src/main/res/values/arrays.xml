@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="rightmenu">
+        <item>Delete</item>
+        <item>Edit</item>
+
+    </string-array>
+
+
+    <string-array name="itemListRightMenu">
+        <item>Delete</item>
+        <item>Edit</item>
+        <item>Add Photo</item>
+        <item>View All Photos</item>
+    </string-array>
+
+</resources>
