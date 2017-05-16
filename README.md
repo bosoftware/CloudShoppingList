@@ -22,7 +22,7 @@ Open the project from Android Studio.
 
 ## Authors
 
-* **Bo Wang** - *Initial work* - [Bo Wang's Software](https://thebosoftware.com)
+* **Bo Wang** - *Initial work* - [Bo Wang's Software](http://thebosoftware.com)
 
 
 
